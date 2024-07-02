@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+
+    
+}
+
+.adiciona{
+    border-radius: 4px;
+    background-color: black;
+    color: #09ff00;
+    border: white 2px solid;
+    cursor: pointer;
+    font-size: 50px;
+    width: 50px;
+
+}
+
+.retira{
+    border-radius: 4px;
+    background-color: black;
+    color: red;
+    border: white 2px solid;
+    cursor: pointer;
+    font-size: 50px;
+    width: 50px;
+}
+
+.novo{
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    border: white 2px solid;
+    cursor: pointer;
+    font-size: 20px;
+    width: 100px;
+}
+
